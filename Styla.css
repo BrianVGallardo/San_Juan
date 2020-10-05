@@ -1,6 +1,6 @@
 html {
     background: #2F4124;
-    background-size: cover;
+    background-size: cover, initial-scale=1, user-scalable=no, maximum-scale=1, width=device-width;
     }
 
 body {
@@ -21,9 +21,9 @@ head {
     h1 {
     font-family: Amethysta, 'Times Sans Serif', sans-serif;
     text-align: center;
-    font-size: 12pt;
+    font-size: 13pt;
     margin: 0 auto;
-    max-width: 330px;
+    max-width: 400px;
     height: auto;
     background-color: #435439;
     color: #ffffff;
@@ -187,39 +187,13 @@ button{
   border: 1px transparent;
   width: auto;
   height: auto;
-  max-height: 30px;
-  max-width: 30%;
+  max-height: 45px;
+  max-width: 35%;
   margin: 6px;
   background: transparent;
   display: inline;
 }
 
-.MLOG img{
-  float: top;
-  padding: 3px;
-  border: 1px solid #5C8492;
-  width: auto;
-  height: auto;
-  max-height: 25px;
-  max-width: 55%;
-  margin: 0 auto;
-  background: transparent;
-  display: inline;
-}
-
-/*IMAGENES*/
-.IM img{
-  float: top;
-  padding: 1px;
-  border: 1px solid #5C8492;
-  width: 100%;
-  height: auto;
-  max-height: 520px;
-  max-width: 605px;
-  margin: 0 auto;
-  background: transparent;
-  display: inline;
-}
 
 footer {
   font-family: Amethysta, 'Times Sans Serif', sans-serif;
