@@ -23,7 +23,7 @@ head {
     text-align: center;
     font-size: 13pt;
     margin: 0 auto;
-    max-width: 400px;
+    max-width: 440px;
     height: auto;
     background-color: #435439;
     color: #ffffff;
@@ -187,8 +187,8 @@ button{
   border: 1px transparent;
   width: auto;
   height: auto;
-  max-height: 45px;
-  max-width: 35%;
+  max-height: 50px;
+  max-width: 37%;
   margin: 6px;
   background: transparent;
   display: inline;
