@@ -184,7 +184,7 @@ button{
 .LOGo img{
   float: center;
   padding: 1px;
-  border: 1px transparent;
+  border: 0.3px solid rgba(255, 255, 255, .8);
   width: auto;
   height: auto;
   max-height: 80px;
