@@ -27,7 +27,7 @@ head {
     height: auto;
     background-color: #435439;
     color: #ffffff;
-    border: 0.1px solid rgba(255, 255, 255, .8);
+    border: 0.3px solid rgba(255, 255, 255, .8);
     padding: 5px;
     border-radius: 20px;
     }
@@ -204,7 +204,7 @@ footer {
   height: auto;
   background-color: #435439;
   color: #ffffff;
-  border: 0.1px solid rgba(255, 255, 255, .8);
+  border: 0.3px solid rgba(255, 255, 255, .8);
   padding: 0.5px;
   border-radius: 20px;
 }
